@@ -8,7 +8,7 @@ public class Main {
     public Double temp_max;
     public Integer pressure;
     public Integer humidity;
-    public Integer seaLevel;
-    public Integer grndLevel;
+    public Integer sea_level;
+    public Integer grnd_level;
 
 }
